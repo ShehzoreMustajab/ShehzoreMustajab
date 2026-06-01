@@ -6,7 +6,7 @@
 <!-- ===== TYPING ANIMATION ===== -->
 <p align="center">
   <a href="https://shehzoremustajab.github.io/shehzore-mustajab.github.io">
-    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=2800&pause=900&color=C8FF3C&center=true&vCenter=true&width=720&lines=Building+production+SaaS+on+MERN+%2F+Next.js;Fintech+%E2%9A%A1+Travel+%E2%9A%A1+AI-assisted+systems;Tech+Lead+%7C+Full-Stack+%7C+Cloud+%2B+DevOps;Open+to+US-remote+%26+global+roles+%F0%9F%8C%8D" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=2800&pause=900&color=C8FF3C&center=true&vCenter=true&width=720&lines=Building+production+SaaS+on+MERN+%2F+Next.js;Fintech+%E2%9A%A1+Travel+%E2%9A%A1+AI-assisted+systems;Tech+Lead+%7C+Full-Stack+%7C+Cloud+%2B+DevOps" alt="Typing SVG" />
   </a>
 </p>
 
@@ -31,7 +31,6 @@ const shehzore = {
   stack:      ["Next.js", "TypeScript", "Node.js", "MongoDB", "Redis", "AWS"],
   currently:  "Leading dev of an all-in-one travel-business SaaS platform",
   shipped:    "Core booking module — spec to production in 1 month",
-  openTo:     "US-remote & global roles",
 };
 ```
 
